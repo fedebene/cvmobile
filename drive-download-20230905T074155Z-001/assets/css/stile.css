@@ -1,0 +1,117 @@
+/* IMPOSTAZIONI GENERALI */
+@media only screen and (max-width:500px) { 
+    body{
+        width: 100%;
+    }
+    
+}
+
+body{ font-family: 'Raleway', sans-serif;
+     display:block;
+     flex-direction: column;
+     align-items: center;
+
+
+}
+h3{
+    font-weight: 600;
+    text-decoration: underline;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+/* HEADER */
+header{
+    background-color: rgb(23, 122, 244);
+    background-size: 50px;
+    color: azure;
+    text-align: center;
+    font-weight: bolder;
+    margin: 1rem;
+    float: center;
+   border-top: solid;
+   border-bottom: solid;
+   border-color: black;
+   border-width: 0.1rem;
+    
+}
+.sottoelemento1{
+    color: aliceblue;
+    margin-top: 1rem;
+}
+.sottoelemento2{
+    background-color: aliceblue;
+    color: rgb(54, 104, 229);
+    margin: 1rem;
+}
+.sottoelemento3{
+    color: black;
+   
+}
+
+
+/* MAIN */
+main{
+    text-align: center;
+    margin: 1rem;
+}
+/* ELEMENTI NEL MAIN */
+.prt1{
+    color: rgb(54, 104, 229);
+    font-size: larger;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.sottoimmagine{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.sez1{
+    font-size: 1rem;
+    text-align: center;
+    
+}
+.cardcite {
+    background-color: rgb(232, 229, 229);
+    background-size: cover;
+    border-style: round;
+    border-radius: 0.5rem;
+    font-size: small;
+    font-weight: 600;
+
+}
+.lista1{
+    font-weight:bold
+}
+.lista2{
+         
+    font-style:oblique;
+    font-weight:bolder;
+}
+
+
+
+
+
+
+
+
+
+/* FOOTER */
+footer{
+    background-color: black;
+    color:aliceblue;
+    margin: 1rem;
+    border-width:1rem ;
+   
+text-align: center;
+    
+}
+.decofooter{
+    color: yellow;
+    
+}
+ .linkcv{
+    color: brown;
+   
+ }
